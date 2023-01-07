@@ -22,9 +22,10 @@ In this repository you can find:
 To test our code open the colab, connect to a runtime with GPU and follow these instruction:
 
 - If the colab is being executed for the first time:
-  - choose the parameters in the form and lauch that cell;
-  - run all the cells up to Algorithm implementation;
-  - choose the algorithm to use and run the corresponding cell in the Execution block;
+  - connect to your google drive only if you want to upload custom images or masks
+  - choose the parameters in the form and lauch that cell
+  - run all the cells up to Algorithm implementation (it may take some minutes to download the pre-trained models)
+  - choose the algorithm to use and run the corresponding cell in the Execution block
   - wait for the results that will be shown compared to the input image
 
 - If you already run any algorithm and want to run again with some changes in the parametes:
@@ -36,5 +37,5 @@ To test our code open the colab, connect to a runtime with GPU and follow these 
 - If you want to change the model (ImageNet or CelebA):
   - change the parameters (the cell should run automatically)
   - run again the cell with header "Model Setup"
-  - choose the algorithm to use and run the corresponding cell in the Execution block;
+  - choose the algorithm to use and run the corresponding cell in the Execution block
   - wait for the results that will be shown compared to the input image
