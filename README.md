@@ -6,6 +6,7 @@
 
 [Andrea Rodriguez](https://www.linkedin.com/in/andrea-rod/) - 1834937
 
+## Introduction
 This repository contains our Neural Network Project in which we try to replicate the results obtained in the paper: [Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/pdf/2212.00490.pdf) (Wang et al., 2022).
 
 The paper introduces a new zero-shot approach to solve Image Restoration (IR) tasks starting from a generic pre-trained diffusion model. The authors propose a sampling algorithm called DDNM and an enhanced version DDNM+.
@@ -16,7 +17,7 @@ In this repository you can find:
 - a pdf report containing an explanation of the method, our approach, evaluation of the results and an image gallery;
 - a colab notebook containing the information of the report together with the code to be run.
 
-<br/>
+## Instructions
 
 To test our code open the colab, connect to a runtime with GPU and follow these instruction:
 
