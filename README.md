@@ -31,7 +31,7 @@ To test our code open the colab, connect to a runtime with GPU and follow these 
 - If you already run any algorithm and want to run again with some changes in the parametes:
   - change the parameters (the cell should run automatically)
   - if the changes on the parameters involved in some capacity the image or the mask (for example: changed image, added/removed the mask), run again the cell with header "Image and Mask Setup"
-  - choose the algorithm to use and run the corresponding cell in the Execution block;
+  - choose the algorithm to use and run the corresponding cell in the Execution block
   - wait for the results that will be shown compared to the input image
 
 - If you want to change the model (ImageNet or CelebA):
