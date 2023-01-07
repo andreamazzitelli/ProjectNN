@@ -15,7 +15,7 @@ The method presented is Zero Shot because it can perform any IR task without nee
 In this repository you can find:
 - the images used for testing;
 - a pdf report containing an explanation of the method, our approach, evaluation of the results and an image gallery;
-- a colab notebook containing the information of the report together with the code to be run.
+- a notebook containing the information of the report together with the code to be run.
 
 ## Instructions
 
