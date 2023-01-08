@@ -2,7 +2,7 @@
 
 <a href="https://colab.research.google.com/drive/1FGNRza91UraR57K0O89zJTVyF6FvWtJq"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo" height=35px></a>
 
-[Andrea Mazzitelli](https://www.linkedin.com/in/andrea-mazzitelli/) - 1835022 - mazzitelli.1834937@studenti.uniroma1.it
+[Andrea Mazzitelli](https://www.linkedin.com/in/andrea-mazzitelli/) - 1835022 - mazzitelli.1835022@studenti.uniroma1.it
 
 [Andrea Rodriguez](https://www.linkedin.com/in/andrea-rod/) - 1834937 - rodriguez.1834937@studenti.uniroma1.it
 
