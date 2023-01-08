@@ -2,9 +2,9 @@
 
 <a href="https://colab.research.google.com/drive/1FGNRza91UraR57K0O89zJTVyF6FvWtJq"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo" height=35px></a>
 
-[Andrea Mazzitelli](https://www.linkedin.com/in/andrea-mazzitelli/) - 1835022
+[Andrea Mazzitelli](https://www.linkedin.com/in/andrea-mazzitelli/) - 1835022 - mazzitelli.1834937@studenti.uniroma1.it
 
-[Andrea Rodriguez](https://www.linkedin.com/in/andrea-rod/) - 1834937
+[Andrea Rodriguez](https://www.linkedin.com/in/andrea-rod/) - 1834937 - rodriguez.1834937@studenti.uniroma1.it
 
 ## Introduction
 This repository contains our Neural Networks Project in which we try to replicate the results obtained in the paper: [Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/pdf/2212.00490.pdf) (Wang et al., 2022).
